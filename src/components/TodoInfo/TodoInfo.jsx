@@ -1,6 +1,6 @@
 // Add the required props
 // eslint-disable-next-line import/extensions
-import UserInfo from '../UserInfo/UserInfo.jsx';
+import { UserInfo } from '../UserInfo/UserInfo.jsx';
 
 export const TodoInfo = ({ todo }) => {
   return (
